@@ -64,7 +64,7 @@ floorplan
 erratic( pose [0 0 0 0.000 ] name "era" color "blue")
 
 #adding blocks
-define block position
+define block
 (
   size [0.500 0.500 1.500]
   gui_nose 1
